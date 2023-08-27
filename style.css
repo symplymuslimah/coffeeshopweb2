@@ -415,6 +415,9 @@ margin-bottom: 10px;
                 height:60vh;
               }   
     }
+ .form {    width:70%;
+                height:60vh;
+              } 
 
     /* MEDIA QUERY AT 480PX */
     @media (max-width:480px) {
